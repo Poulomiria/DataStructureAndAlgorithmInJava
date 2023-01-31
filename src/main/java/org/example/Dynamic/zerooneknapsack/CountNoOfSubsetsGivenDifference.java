@@ -1,4 +1,4 @@
-package org.example.Dynamic;
+package org.example.Dynamic.zerooneknapsack;
 
 public class CountNoOfSubsetsGivenDifference {
 
